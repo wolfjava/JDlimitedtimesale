@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/canal-client/canal-client.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/canal-client/canal-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/frontend-server/frontend-server.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/frontend-server/frontend-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/intergral-api/intergral-api.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/intergral-api/intergral-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/intergral-server/intergral-server.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/intergral-server/intergral-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/job-server/job-server.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/job-server/job-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/pay-api/pay-api.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/pay-api/pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/pay-server/pay-server.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/pay-server/pay-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/product-api/product-api.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/product-api/product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/product-server/product-server.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/product-server/product-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/seckill-api/seckill-api.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/seckill-api/seckill-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/seckill-server/seckill-server.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/seckill-server/seckill-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-common/shop-common.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-common/shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-parent.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/shop-provider.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/shop-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/shop-provider-api.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/shop-provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-uaa/shop-uaa.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-uaa/shop-uaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/websocket-server/websocket-server.iml" filepath="$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/websocket-server/websocket-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/秒杀.iml" filepath="$PROJECT_DIR$/.idea/秒杀.iml" />
+    </modules>
+  </component>
+</project>

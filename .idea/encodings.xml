@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/frontend-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/canal-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/intergral-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/pay-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/product-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider-api/seckill-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/intergral-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/job-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/pay-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/product-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-provider/seckill-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/shop-uaa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/限时抢购完整代码/flash_sale/shop-parent/websocket-server/src/main/java" charset="UTF-8" />
+  </component>
+</project>
